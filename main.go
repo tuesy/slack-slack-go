@@ -1,8 +1,3 @@
-
-Branch: master  anonymous-slack/main.go
-@purohitpurohit on Apr 28 Bracketing message, not user.
-2 contributors @purohit @sandlerben
-RawBlameHistory     111 lines (102 sloc)  3.3 KB
 package main
 
 import (
