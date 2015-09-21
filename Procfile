@@ -1,1 +1,1 @@
-web: slack-slack-go
+web: slack-slack-go -port=$PORT
